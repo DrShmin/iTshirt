@@ -2,3 +2,4 @@
 1. tshirt upload
 2. tshirt purchase
 3. putting items in a cart
+4. showing detail page
